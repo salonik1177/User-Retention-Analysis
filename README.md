@@ -22,15 +22,15 @@ Using MySQL for data analysis and Python for predictive modeling, the project fo
 
 1. Customer Retention Curve
 
-  Illustrates how user retention evolves over time and stabilizes across cohorts
+    Illustrates how user retention evolves over time and stabilizes across cohorts
 
   <p align="center"> 
   <img src="visuals/Customer_retention_curve.png" width="550">
   </p>
-
+#
 2. 12-Month CLV Forecast
 
-Predicts long-term revenue contribution per user using a regression model
+   Predicts long-term revenue contribution per user using a regression model
 
  <p align="center"> 
  <img src="visuals/12-Month CLV.png" width="550">
